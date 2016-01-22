@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_system"
+            android:icon="@mipmap/ic_launcher"
+            android:title="系统"></item>
+        <item
+            android:id="@+id/drawer_device"
+            android:icon="@mipmap/ic_phone_android_black_24dp"
+            android:title="设备"></item>
+        <item
+            android:id="@+id/drawer_processor"
+            android:icon="@mipmap/ic_processor_black_24dp"
+            android:title="处理器"></item>
+        <item
+            android:id="@+id/drawer_battery"
+            android:icon="@mipmap/ic_battery"
+            android:title="电池"></item>
+        <item
+            android:id="@+id/drawer_memory"
+            android:icon="@mipmap/ic_memory_black_24dp"
+            android:title="内存"></item>
+        <item
+            android:id="@+id/drawer_wifi"
+            android:icon="@mipmap/ic_network_wifi"
+            android:title="Wi-Fi"></item>
+        <item
+            android:id="@+id/drawer_more"
+            android:icon="@mipmap/ic_more_black_24dp"
+            android:title="更多"></item>
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_donate"
+            android:icon="@mipmap/ic_favorite_outline_black_24dp"
+            android:title="Donate"></item>
+        <item
+            android:id="@+id/drawer_feedback"
+            android:icon="@mipmap/ic_message_black_24dp"
+            android:title="反馈"></item>
+        <item
+            android:id="@+id/drawer_setting"
+            android:icon="@mipmap/ic_settings_black_24dp"
+            android:title="设置"></item>
+    </group>
+</menu>
+
+

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Redo.iml" filepath="$PROJECT_DIR$/Redo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app3/app3.iml" filepath="$PROJECT_DIR$/app3/app3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/csdn/csdn.iml" filepath="$PROJECT_DIR$/csdn/csdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mobilemsg/mobilemsg.iml" filepath="$PROJECT_DIR$/mobilemsg/mobilemsg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wheel/wheel.iml" filepath="$PROJECT_DIR$/wheel/wheel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xlistview/xlistview.iml" filepath="$PROJECT_DIR$/xlistview/xlistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youtubeandroid/youtubeandroid.iml" filepath="$PROJECT_DIR$/youtubeandroid/youtubeandroid.iml" />
+    </modules>
+  </component>
+</project>

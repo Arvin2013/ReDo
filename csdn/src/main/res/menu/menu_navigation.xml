@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_apps"
+            android:icon="@mipmap/ic_drawer_apps_selected"
+            android:title="应用和游戏"></item>
+        <item
+            android:id="@+id/drawer_myapps"
+            android:icon="@mipmap/ic_drawer_myapps"
+            android:title="我的应用和游戏"
+            android:visible="false"></item>
+        <item
+            android:id="@+id/drawer_entertainment"
+            android:icon="@mipmap/ic_drawer_entertainment_selected"
+            android:title="娱乐"></item>
+        <item
+            android:id="@+id/drawer_music"
+            android:icon="@mipmap/ic_drawer_music_selected"
+            android:title="音乐"></item>
+        <item
+            android:id="@+id/drawer_mymusic"
+            android:icon="@mipmap/ic_drawer_music_selected"
+            android:title="我的音乐"
+            android:visible="false"></item>
+
+    </group>
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/feedback"
+            android:title="帮助反馈"></item>
+    </group>
+
+    <group
+        android:id="@+id/group3"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/about"
+            android:title="软件简介"></item>
+    </group>
+
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+    <item android:title="item"></item>
+
+
+    <!--<group android:checkableBehavior="single">
+            <item
+                android:icon="@mipmap/ic_home_white_48dp"
+                android:title="Home"></item>
+
+            <item
+                android:icon="@mipmap/ic_sort_by_alpha_white_48dp"
+                android:title="Categories"></item>
+            <item
+                android:icon="@mipmap/ic_message_white_48dp"
+                android:title="Feedback"></item>
+            <item
+                android:icon="@mipmap/ic_settings_white_48dp"
+                android:title="Setting"></item>
+        </group>  -->
+
+    <!--
+    <item android:title="@string/abc_action_bar_home_description"
+         android:icon="@mipmap/ic_settings_white_48dp">
+     <menu>
+         <item
+             android:icon="@mipmap/ic_settings_white_48dp"
+             android:title="Setting"></item>
+     </menu>
+     </item>
+    -->
+
+</menu>
